@@ -1,0 +1,4 @@
+[16-Mar-2024 15:12:44 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[16-Mar-2024 15:12:44 UTC] PHP Fatal error:  Failed opening required '/private/var/folders/4q/0knk8wd53kx3jtnqmtj98wb40000gn/T/AppTranslocation/542FCDE1-1CD5-4B86-A343-E66DE70D85DC/d/Local.app/Contents/Resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[16-Mar-2024 15:12:45 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[16-Mar-2024 15:12:45 UTC] PHP Fatal error:  Failed opening required '/private/var/folders/4q/0knk8wd53kx3jtnqmtj98wb40000gn/T/AppTranslocation/542FCDE1-1CD5-4B86-A343-E66DE70D85DC/d/Local.app/Contents/Resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
